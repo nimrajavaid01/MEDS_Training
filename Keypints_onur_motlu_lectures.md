@@ -9,7 +9,7 @@ Three key components
 - Communication 
 - Memory/torage 
   <p align="center">
-  <img src="Capture.PNG" width="400" height="200">
+  <img src="png/Capture.PNG" width="400" height="200">
 </p>
 
 ## The Transformation Hierarchy
