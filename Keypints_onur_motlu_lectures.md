@@ -30,7 +30,7 @@ The physical components (transistors, capacitors) that make up the logic circuit
 - Electrons
 The fundamental physical phenomena governing the behavior of electronic devices
   <p align="center">
-  <img src="Capture1.PNG" width="400" height="170">
+  <img src="png/Capture1.PNG" width="400" height="170">
 </p>
 To achieve the highest energy efficiency and performance we must take the expanded view
 of computer architecture
@@ -49,7 +49,7 @@ We get a Transistor by combining
 ### Different Types of MOS Transistors
 There are two types of MOS transistors: n-type and p-type
  <p align="center">
-  <img src="Capture2.PNG" width="400" height="150">
+  <img src="png/Capture2.PNG" width="400" height="150">
 </p>
   
   - **n-type**: Conducts when gate voltage = 3V.  
@@ -68,7 +68,7 @@ They implement simple Boolean functions.
 
 Modern computers use both n-type and p-type transistors, i.e. Complementary MOS (CMOS) technology
 <p align="center">
-  <img src="Capture3.PNG" width="200" height="20">
+  <img src="png/Capture3.PNG" width="200" height="20">
 </p>
 
 ### CMOS Circuit
@@ -80,7 +80,7 @@ Modern computers use both n-type and p-type transistors, i.e. Complementary MOS 
 
      PMOS is on, NMOS is off → Output is connected to V<sub>DD</sub> → Output is high (1).
 <p align="center">
-  <img src="Capture4.PNG" width="200" height="200">
+  <img src="png/Capture4.PNG" width="200" height="200">
 </p>
 
 ### General CMOS Gate Structure
@@ -93,7 +93,7 @@ Modern computers use both n-type and p-type transistors, i.e. Complementary MOS 
   - nMOS transistors are used for pull-down
   
 <p align="center">
-  <img src="Capture5.PNG" width="200" height="200">
+  <img src="png/Capture5.PNG" width="200" height="200">
 </p>
 
 # Lecture no 2
@@ -102,7 +102,7 @@ Build some of the logic structures that are important components of the microarc
 A logic circuit is composed of:
 Inputs and Outputs
 <p align="center">
-  <img src="Capture6.PNG" width="400" height="150">
+  <img src="png/Capture6.PNG" width="400" height="150">
 </p>
 Functional specification (describes relationship between inputs and outputs)
 
@@ -170,7 +170,7 @@ Exactly one of the outputs is 1 and all the rest are 0s
 
 **Example: 2-to-4 decoder**
 <p align="center">
-  <img src="Capture7.PNG" width="200" height="150">
+  <img src="png/Capture7.PNG" width="200" height="150">
 </p>
 <div align="center">
 
@@ -189,7 +189,7 @@ Exactly one of the outputs is 1 and all the rest are 0s
 
 **Example: 2-to-1 MUX**
 <p align="center">
-  <img src="Capture8.PNG" width="200" height="150">
+  <img src="png/Capture8.PNG" width="200" height="150">
 </p>
 
 <div align="center">
@@ -221,7 +221,7 @@ Followed by a programmable OR array
 
 It allows users to define custom logic functions by programming which input combinations (minterms) are AND and then OR together
 <p align="center">
-  <img src="Capture9.PNG" width="300" height="150">
+  <img src="png/Capture9.PNG" width="300" height="150">
 </p>
 
 # Lecture no 3
@@ -230,7 +230,7 @@ Checks if two N-input values are exactly the same.
 
 **Example: 4-bit Comparator**
 <p align="center">
-  <img src="Capture10.PNG" width="300" height="150">
+  <img src="png/Capture10.PNG" width="300" height="150">
 </p>
 
 ### ALU (Arithmetic Logic Unit)
@@ -238,7 +238,7 @@ Combines a variety of arithmetic and logical operations into a single unit (that
 
 Usually denoted with this symbol:
 <p align="center">
-  <img src="Capture11.PNG" width="200" height="150">
+  <img src="png/Capture11.PNG" width="200" height="150">
 </p>
 
 <div align="center">
@@ -295,7 +295,7 @@ Priority Circuit
 - Outputs: “Grant” signal for each requestor
 **Example 4-bit priority circuit**
 <p align="center">
-  <img src="Capture12.PNG" width="200" height="150">
+  <img src="png/Capture12.PNG" width="200" height="150">
 </p>
 
 **4-Input, 4-Output Priority Circuit (Centered Table)**
